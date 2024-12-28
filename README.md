@@ -1,1 +1,1 @@
-Download proteus to run this project, the files with .odt extensions contains how different chips were constructed!
+Download proteus to run this project, the files with .odt extensions contains how I constructed different chips with Karnaugh maps.
